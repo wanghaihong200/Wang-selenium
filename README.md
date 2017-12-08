@@ -10,7 +10,7 @@ web ui test
           6、使用了PageObject模式来编写测试脚本   <br/>
 
 ------------------------------------------------------------------------------------------------------
-![]（https://raw.githubusercontent.com/wanghaihong200/Wang-selenium/master/1.png）
+![](https://github.com/wanghaihong200/Wang-selenium/blob/master/1.png)  
 
   
   

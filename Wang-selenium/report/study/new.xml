@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<root xmlns:xsi="http://www.xxx.com">
+	<element id="hai">
+	hello world
+	<tag data="tag data"/>
+	</element>
+	</root>
